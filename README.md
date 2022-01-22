@@ -7,3 +7,10 @@ Markup : 1. Bubble Sort
          4. Selection Sort
          5. Quick Sort
 
+<ol>
+  <li>Bubble Sort</li>
+  <li>Merge Sort</li>
+  <li>Selection Sort</li>
+  <li>Insertion Sort</li>
+  <li>Quick Sort</li>
+</ol>
